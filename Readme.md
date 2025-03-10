@@ -1,4 +1,5 @@
-Code for "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi"
+Code for ICASSP 2025 "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi"
+https://ieeexplore.ieee.org/abstract/document/10889778
 
 Pre-processed data are available at https://pan.baidu.com/s/1JbYvSb2wJoetRVrASrgXKA 
 password：wifi 

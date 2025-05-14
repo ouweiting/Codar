@@ -5,3 +5,5 @@ Pre-processed data are available at https://pan.baidu.com/s/1JbYvSb2wJoetRVrASrg
 password：wifi 
 
 For raw data and pre-processing code, please contact with me via 3178269754@qq.com
+
+Keyword: wifi sensing, intrusion detection, human identification, footprint localization, NloS sensing
